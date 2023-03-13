@@ -1,5 +1,5 @@
 {
-    "name": "silverstripers/seo",
+    "name": "bclegaspi/seo",
     "description": "SEO for SilverStripe websites",
     "type": "silverstripe-vendormodule",
     "keywords": ["silverstripe", "seo", "module"],
