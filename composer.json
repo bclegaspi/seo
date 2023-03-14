@@ -1,5 +1,5 @@
 {
-    "name": "bclegaspi/seo",
+    "name": "silverstripers/seo",
     "description": "SEO for SilverStripe websites",
     "type": "silverstripe-vendormodule",
     "keywords": ["silverstripe", "seo", "module"],
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Bclegaspi\\SEO\\": "src/"
+            "SilverStripers\\SEO\\": "src/"
         }
     }
 }
