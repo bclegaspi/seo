@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SilverStripers\\SEO\\": "src/"
+            "Bclegaspi\\SEO\\": "src/"
         }
     }
 }
